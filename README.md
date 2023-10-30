@@ -1,0 +1,1 @@
+# Line Handwritten Text Recognition Sysyem based on Image2Word

@@ -1,0 +1,5 @@
+src/samples/
+src/__pycache__
+src/gg.py
+src/params/CRNN.pth
+data/
